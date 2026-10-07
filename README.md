@@ -2,6 +2,7 @@ React JS Techinal Test
 
 Frontend Techinal Test menggunakan React JS dan Vite.
 
+
 Cara menjalankan project:
 
 A. Requirements
@@ -12,16 +13,21 @@ Untuk menjalankan project, komputer harus memiliki:
 Untuk mengecek apakah komputer sudah memiliki requirements yang diperlukan, bisa dicek dengan:
 
 node -v
+
+kemudian:
+
 npm -v
 
 
 B. Install Dependencies
-Jalankan,
+
+Jalankan:
 
 npm install
 
 
-C. Jalankan Project
-Jalankan,
+C. Running Project
+
+Jalankan:
 
 npm run dev
